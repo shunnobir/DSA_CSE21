@@ -13,9 +13,7 @@ Node *node_new(int data) {
 void singly_list_insert_head(SinglyList **list, int data) {
     Node *head = *list;
     Node *node = node_new(data);
-    if (head != NULL) {
-        node->next = head;
-    }
+    node->next = head;
     *list = node;
 }
 
