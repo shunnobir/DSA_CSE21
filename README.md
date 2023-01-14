@@ -14,6 +14,6 @@ All the classes and data strcutures are listed below for quick navigation and lo
 ### Data Strcutures
 
 1. Singly Linked List
-    * [C Implementation](class1/singly_linked_list.c)
-    * [C++ Implementation](class1/singly_linked_list.cpp)
+    * [C Implementation](class1/c)
+    * [C++ Implementation](class1/c++)
 
