@@ -7,8 +7,8 @@ This repo contains the data structures and algorithms implementations that were 
 All the classes and data strcutures are listed below for quick navigation and look ups.
 
 ### Classes
-1. [01/01/2023](class1) - [Class 1](class1) 
-    * Topics: `Singly Linked list`, `Doubly Linked List`
+1. [14/01/2023](class1) - [Class 1](class1) 
+    * Topics: `Singly Linked list`
 
 
 ### Data Strcutures
