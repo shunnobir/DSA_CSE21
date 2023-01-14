@@ -1,0 +1,8 @@
+/**/.idea
+/**/.cache
+/**/.vscode
+/**/.vs
+/**/*.o
+/**/main
+/**/*.out
+
