@@ -6,6 +6,11 @@ void swap(int **a, int **b) {
     *b = temp;
 }
 
+void list_insert(Node *head, Node *new) {
+    new->next = head;
+    head = new;
+}
+
 int main() {
     int a, b;
     int *aptr = &a, *bptr = &b;
