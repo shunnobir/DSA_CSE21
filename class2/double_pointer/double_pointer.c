@@ -6,9 +6,13 @@ void swap(int **a, int **b) {
     *b = temp;
 }
 
-void list_insert(Node *head, Node *new) {
-    new->next = head;
-    head = new;
+typedef struct Node {
+    struct Node *next;  
+} Node;
+
+void list_insert(Node **head, Node *new) {
+    new->next = *head;
+    *head = new;
 }
 
 int main() {
